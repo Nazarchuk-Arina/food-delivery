@@ -1,0 +1,84 @@
+body {
+  font-family: Roboto;
+  color: black;
+}
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style-type: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.button {
+  cursor: pointer;
+}
+.container {
+  width: 1310px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 0 auto;
+}
+/* Header */
+.img-logo {
+  width: 66px;
+  height: 52px;
+}
+.header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.navigation {
+}
+.navigation-item {
+  font-weight: 400;
+  font-size: 14px;
+  color: #2c2c2c;
+}
+.nav-home {
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #bbf330;
+}
+.button {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 19px;
+  line-height: 1.5;
+  text-align: right;
+  color: #2c2c2c;
+}
+/* Section salad 1 */
+.container {
+}
+.main-title {
+}
+.text {
+}
+.button {
+}
+/* Section apple 2 */
+.title {
+}
+.text {
+}
+.features {
+}
+.text-features {
+}
+.button-2 {
+}
